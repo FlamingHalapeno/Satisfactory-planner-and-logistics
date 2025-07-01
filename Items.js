@@ -738,6 +738,227 @@ const SatisfactoryItems = [
     energy: "150000MJ"
   },
 
+  // == Quantum Technology ==
+  {
+    name: "Diamonds",
+    category: "Quantum Technology",
+    stackSize: 200,
+    resourceSinkPoints: 240,
+    energy: "0MJ"
+  },
+  {
+    name: "Time Crystal",
+    category: "Quantum Technology",
+    stackSize: 200,
+    resourceSinkPoints: 960,
+    energy: "0MJ"
+  },
+  {
+    name: "Dark Matter Crystal",
+    category: "Quantum Technology",
+    stackSize: 200,
+    resourceSinkPoints: 1780,
+    energy: "0MJ"
+  },
+  {
+    name: "Singularity Cell",
+    category: "Quantum Technology",
+    stackSize: 50,
+    resourceSinkPoints: 114675,
+    energy: "0MJ"
+  },
+  {
+    name: "Neural-Quantum Processor",
+    category: "Quantum Technology",
+    stackSize: 100,
+    resourceSinkPoints: 248034,
+    energy: "0MJ"
+  },
+  {
+    name: "Alien Power Matrix",
+    category: "Quantum Technology",
+    stackSize: 50,
+    resourceSinkPoints: 210,
+    energy: "0MJ"
+  },
+
+  // == Special ==
+  {
+    name: "Blue Power Slug",
+    category: "Special",
+    stackSize: 50,
+    resourceSinkPoints: 0,
+    energy: "0MJ"
+  },
+  {
+    name: "Yellow Power Slug",
+    category: "Special",
+    stackSize: 50,
+    resourceSinkPoints: 0,
+    energy: "0MJ"
+  },
+  {
+    name: "Purple Power Slug",
+    category: "Special",
+    stackSize: 50,
+    resourceSinkPoints: 0,
+    energy: "0MJ"
+  },
+  {
+    name: "Power Shard",
+    category: "Special",
+    stackSize: 100,
+    resourceSinkPoints: 0,
+    energy: "0MJ"
+  },
+  {
+    name: "FICIST Coupon",
+    category: "Special",
+    stackSize: 100,
+    resourceSinkPoints: 0,
+    energy: "0MJ"
+  },
+  {
+    name: "Smart Plating",
+    category: "Special",
+    stackSize: 50,
+    resourceSinkPoints: 520,
+    energy: "0MJ"
+  },
+  {
+    name: "Versatile Framework",
+    category: "Special",
+    stackSize: 50,
+    resourceSinkPoints: 1176,
+    energy: "0MJ"
+  },
+  {
+    name: "Automated Wiring",
+    category: "Special",
+    stackSize: 50,
+    resourceSinkPoints: 1440,
+    energy: "0MJ"
+  },
+  {
+    name: "Modular Engine",
+    category: "Special",
+    stackSize: 50,
+    resourceSinkPoints: 9960,
+    energy: "0MJ"
+  },
+  {
+    name: "Adaptive Control Unit",
+    category: "Special",
+    stackSize: 50,
+    resourceSinkPoints: 76368,
+    energy: "0MJ"
+  },
+  {
+    name: "Assembly Director System",
+    category: "Special",
+    stackSize: 50,
+    resourceSinkPoints: 500176,
+    energy: "0MJ"
+  },
+  {
+    name: "Magnetic Field Generator",
+    category: "Special",
+    stackSize: 50,
+    resourceSinkPoints: 11000,
+    energy: "0MJ"
+  },
+  {
+    name: "Thermal Propulsion Unit",
+    category: "Special",
+    stackSize: 50,
+    resourceSinkPoints: 728508,
+    energy: "0MJ"
+  },
+  {
+    name: "Nuclear Pasta",
+    category: "Special",
+    stackSize: 50,
+    resourceSinkPoints: 538976,
+    energy: "0MJ"
+  },
+  {
+    name: "Biochemical Sculptor",
+    category: "Special",
+    stackSize: 50,
+    resourceSinkPoints: 301778,
+    energy: "0MJ"
+  },
+  {
+    name: "Ballistic Warp Drive",
+    category: "Special",
+    stackSize: 50,
+    resourceSinkPoints: 2895334,
+    energy: "0MJ"
+  },
+  {
+    name: "AI Expansion Server",
+    category: "Special",
+    stackSize: 50,
+    resourceSinkPoints: 597652,
+    energy: "0MJ"
+  },
+  // == Containers ==
+  {
+    name: "Empty Canister",
+    category: "Containers",
+    stackSize: 100,
+    resourceSinkPoints: 10,
+    energy: "0MJ"
+  },
+  {
+    name: "Empty Fluid Tank",
+    category: "Containers",
+    stackSize: 100,
+    resourceSinkPoints: 170,
+    energy: "0MJ"
+  },
+  {
+    name: "Packaged Water",
+    category: "Containers",
+    stackSize: 100,
+    resourceSinkPoints: 130,
+    energy: "0MJ"
+  },
+  {
+    name: "Pressure Conversion Cube",
+    category: "Containers",
+    stackSize: 50,
+    resourceSinkPoints: 255088,
+    energy: "0MJ"
+  },
+  {
+    name: "Packaged Alumina Solution",
+    category: "Containers",
+    stackSize: 100,
+    resourceSinkPoints: 160,
+    energy: "0MJ"
+  },
+  {
+    name: "Packaged Nitric Acid",
+    category: "Containers",
+    stackSize: 100,
+    resourceSinkPoints: 412,
+    energy: "0MJ"
+  },
+  {
+    name: "Packaged Sulfuric Acid",
+    category: "Containers",
+    stackSize: 100,
+    resourceSinkPoints: 152,
+    energy: "0MJ"
+  },
+  {
+    name: "Packaged Nitrogen Gas",
+    category: "Containers",
+    stackSize: 100,
+    resourceSinkPoints: 312,
+    energy: "0MJ"
+  },
   // === CONSUMED ===
   {
     name: "Black Powder",
